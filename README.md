@@ -1,4 +1,6 @@
-#Harrison GPT
-use the .pkl for the actual model, traingn data has not been added as it's too large 
+# HarrisonGPT
+use the .pkl for the actual model, training data has not been added as it's too large 
 
-The trainign data can be sourced if needed 
+The training data can be sourced if needed 
+
+'Chatbot.py' is how you run the bot. Must have pytorch installed (may not work on MacOS)
