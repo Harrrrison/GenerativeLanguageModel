@@ -1,0 +1,4 @@
+ # ignore all .txt files --> thesre are the traingin sets
+*.txt
+*.pkl
+cuda
